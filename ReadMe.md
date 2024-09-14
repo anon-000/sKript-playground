@@ -10,4 +10,6 @@ pip install -r requirements.txt
 
 ## STEPS to RUN
 ===============================
+```
 python3 cli_realtime_usage.py
+```
